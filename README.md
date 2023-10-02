@@ -5,7 +5,7 @@
 ![Detaild Architecture Diagram by Maaz Ahmed](journal%20/assets/YouTube%20Data%20Analysis.png "Detaild Architecture Diagram by Maaz Ahmed")
 
 ## Dashboard
-![Dashboard](journal%20/assets/YouTube%20Data%20Analysis.png "Dashboard")
+![Dashboard](journal%20/assets/YouTube_Analysis_Dashboard.png "Dashboard")
 
 ### Step 1:
 
