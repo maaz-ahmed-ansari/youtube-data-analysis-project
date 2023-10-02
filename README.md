@@ -55,4 +55,8 @@
 - Give suffiecient s3 access to QuickSight
 - Create Visuals and Publish Dashboard
 
+#### Note: 
+
+- IAM permissions or roles are required for AWS services to interact with each other
+
 #### Reference: https://github.com/darshilparmar/dataengineering-youtube-analysis-project
